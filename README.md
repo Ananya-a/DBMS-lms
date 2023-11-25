@@ -6,6 +6,7 @@ The "E-learning Management System" is developed and implemented using Java and M
 It is a user-friendly interface for students to access video content and for faculty to access student details. Overall control lies with the admin, who can perform the CRUD operations. MySQL stores the data and Java is used for frontend. JDBC driver is used for database connection.
 
 ### :two: Architecture Diagram
+  <img src="https://private-user-images.githubusercontent.com/72432803/285578994-0f8589ad-baf5-45f2-a68b-3131f41fb12b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDA5MDczNDksIm5iZiI6MTcwMDkwNzA0OSwicGF0aCI6Ii83MjQzMjgwMy8yODU1Nzg5OTQtMGY4NTg5YWQtYmFmNS00NWYyLWE2OGItMzEzMWY0MWZiMTJiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI1VDEwMTA0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZiZGQyMDgzODM2ZTA1ODc4NGExNmUzMzU5NDVhMWUwYTVkM2RjOTIyZmQ4NTUyNzljMTAwNDY2ZTgxNmViNGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.sTQj5I6VS2Nc05D0ppvJA9kf7eVcZWV1O20Xt3dT0oY" width=700>
 
 ### :three: Prerequisites
 Hardware Specification <br>
