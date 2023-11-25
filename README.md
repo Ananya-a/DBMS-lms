@@ -23,17 +23,17 @@ Software Specification <br>
 ### :four: Steps 
 Step 1: Install MySQL and Apache Netbeans or any other suitable IDE. 
 
-Step 2: Create a New Database Navigate to the "Databases" tab. Enter a name for your new database in the "Create database" field, i.e, "lms."
+Step 2: Create a New Database Navigate to the "Databases" tab. Enter a name for your new database in the "Create database" field, i.e, "lms"
 
-Step 3: Design Tables and Relationships - Click on "Create Table" to define the structure of your tables. Specify the columns, data types, and constraints for each table.
+Step 3: Establish a Connection to the Database using JDBC connection.
 
-Step 4: Insert Data After creating tables.
+Step 4: Design Tables and Relationships - Click on "Create Table" to define the structure of the tables. Specify the columns, data types, and constraints for each table.
 
-Step 5: Write SQL Queries to perform various operations like data retrieval, insertion, and updates.
+Step 5: Insert data after creating the tables.
 
-Step 6: Establish a Connection to the Database
+Step 6: Write SQL Queries to perform various operations like data retrieval, insertion, and updates.
 
-Step 7: Test the Application
+Step 7: Test the Application.
 
 ### :five: Output
 <p align=center>
