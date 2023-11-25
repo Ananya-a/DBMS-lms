@@ -25,7 +25,7 @@ Step 1: Install MySQL and Apache Netbeans or any other suitable IDE.
 
 Step 2: Create a New Database Navigate to the "Databases" tab. Enter a name for your new database in the "Create database" field, i.e, "lms."
 
-Step 3: Design Tables and Relationships Create Table: Click on "Create Table" to define the structure of your tables. Specify the columns, data types, and constraints for each table.
+Step 3: Design Tables and Relationships - Click on "Create Table" to define the structure of your tables. Specify the columns, data types, and constraints for each table.
 
 Step 4: Insert Data After creating tables.
 
